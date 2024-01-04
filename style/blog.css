@@ -1,6 +1,14 @@
 div{
-    background-color: aquamarine;
-    padding: 20px;
-    margin: 10px;
+    background-color: rgb(174, 127, 255);
+    padding: 30px;
+    margin: 30px;
 
+}
+span{
+    color: rgb(255, 0, 0);
+    font-style: initial;
+    font-size: large;
+}
+*html{
+    border: 0px;
 }
